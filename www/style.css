@@ -1,0 +1,32 @@
+body {
+  background-color: rgba(0, 0, 0, 0.89);
+}
+
+label,
+p {
+  color: rgba(255, 255, 255, 0.774);
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+input {
+  font-size: 20px;
+}
+
+body > div {
+  margin: 200px 300px;
+  border: 1px solid white;
+  box-sizing: border-box;
+  padding: 60px;
+}
+
+button {
+  background-color: rgba(165, 16, 16, 0.513);
+  border: none;
+  border-radius: 2rem;
+  color: rgba(255, 255, 255, 0.397);
+  font-size: 20px;
+  padding: 4px 20px;
+  margin-left: 20px;
+  font-weight: bold;
+}
